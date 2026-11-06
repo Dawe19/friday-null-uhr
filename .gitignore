@@ -1,0 +1,8 @@
+node_modules/
+config.json
+.spotify-tokens.json
+.playlist-cache.json
+.DS_Store
+.env
+container/.env
+container/data/

@@ -1,0 +1,7 @@
+.git
+node_modules
+config.json
+.spotify-tokens.json
+.playlist-cache.json
+container/data
+*.log
