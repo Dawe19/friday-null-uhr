@@ -9,7 +9,7 @@ Spotify values and credentials belong in `container/.env` and `container/data/.s
 Clone this repository on the server, then create the private configuration and token directory:
 
 ```sh
-git clone <your-github-repository-url> ~/spotify-weekly
+git clone https://github.com/Dawe19/friday-null-uhr.git ~/spotify-weekly
 cd ~/spotify-weekly
 cp container/.env.example container/.env
 mkdir -p container/data
